@@ -1,0 +1,44 @@
+.tile .tile-inner{
+  background-size: cover !important;
+  color: transparent !important;
+}
+
+.tile.tile-2 .tile-inner{
+  background-image: url('../img/1.png') !important;
+}
+.tile.tile-4 .tile-inner{
+  background-image: url('../img/2.png') !important;
+}
+.tile.tile-8 .tile-inner{
+  background-image: url('../img/3.png') !important;
+}
+.tile.tile-16 .tile-inner{
+  background-image: url('../img/4.png') !important;
+}
+.tile.tile-32 .tile-inner{
+  background-image: url('../img/5.png') !important;
+}
+.tile.tile-64 .tile-inner{
+  background-image: url('../img/6.png') !important;
+}
+.tile.tile-128 .tile-inner{
+  background-image: url('../img/7.png') !important;
+}
+.tile.tile-256 .tile-inner{
+  background-image: url('../img/8.png') !important;
+}
+.tile.tile-512 .tile-inner{
+  background-image: url('../img/9.png') !important;
+}
+.tile.tile-1024 .tile-inner{
+  background-image: url('../img/10.png') !important;
+}
+.tile.tile-2048 .tile-inner{
+  background-image: url('../img/11.png') !important;
+}
+.tile.tile-4096 .tile-inner{
+  background-image: url('../img/12.png') !important;
+}
+.tile.tile-8192 .tile-inner{
+  background-image: url('../img/13.png') !important;
+}
